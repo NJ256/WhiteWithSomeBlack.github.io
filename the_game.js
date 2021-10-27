@@ -1,3 +1,3 @@
-window.addeventlistener("load",function() {
+window.addEventListener("load",function() {
   document.body.style.backround="blue";
 });
